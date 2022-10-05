@@ -7,6 +7,9 @@
 
 examples
 https://github.com/atharvakale31/Real-Time_Face_Recognition_Android
+https://github.com/Lauszus/FaceRecognitionApp
+https://github.com/tokijh/FaceRecognition
+https://github.com/joonb14/Android-FaceRecognition
 
 
 <!---
